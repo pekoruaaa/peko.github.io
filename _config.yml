@@ -370,7 +370,7 @@ gitcalendar:
   deploy:
     type: git
     repository: git@github.com:pekoruaaa/peko.github.io.git
-    branch: master
+    branch: main
 
 #端点
   server:
